@@ -17,7 +17,13 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"obj_floor","order":1,"path":"objects/obj_floor/obj_floor.yy",},
+    {"name":"obj_coin","order":4,"path":"objects/obj_coin/obj_coin.yy",},
+    {"name":"obj_floor2","order":1,"path":"objects/obj_floor2/obj_floor2.yy",},
+    {"name":"obj_goal","order":3,"path":"objects/obj_goal/obj_goal.yy",},
+    {"name":"obj_playbutton","order":2,"path":"objects/obj_playbutton/obj_playbutton.yy",},
+    {"name":"spr_coins","order":4,"path":"sprites/spr_coins/spr_coins.yy",},
     {"name":"spr_floor","order":1,"path":"sprites/spr_floor/spr_floor.yy",},
+    {"name":"spr_goal","order":3,"path":"sprites/spr_goal/spr_goal.yy",},
+    {"name":"spr_playbutton","order":2,"path":"sprites/spr_playbutton/spr_playbutton.yy",},
   ],
 }
