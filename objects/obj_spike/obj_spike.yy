@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_playbutton",
+  "%Name":"obj_spike",
   "eventList":[],
   "managed":true,
-  "name":"obj_playbutton",
+  "name":"obj_spike",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_playbutton",
-    "path":"sprites/spr_playbutton/spr_playbutton.yy",
+    "name":"spr_spike",
+    "path":"sprites/spr_spike/spr_spike.yy",
   },
   "spriteMaskId":null,
   "visible":true,

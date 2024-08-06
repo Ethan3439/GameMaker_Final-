@@ -20,8 +20,10 @@
     {"name":"obj_coin","order":4,"path":"objects/obj_coin/obj_coin.yy",},
     {"name":"obj_floor","order":1,"path":"objects/obj_floor/obj_floor.yy",},
     {"name":"obj_goal","order":3,"path":"objects/obj_goal/obj_goal.yy",},
-    {"name":"Obj_playbutton","order":5,"path":"objects/Obj_playbutton/Obj_playbutton.yy",},
+    {"name":"obj_playbutton","order":8,"path":"objects/obj_playbutton/obj_playbutton.yy",},
     {"name":"obj_player","order":6,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_spike","order":7,"path":"objects/obj_spike/obj_spike.yy",},
+    {"name":"room2","order":1,"path":"rooms/room2/room2.yy",},
     {"name":"spr_coins","order":4,"path":"sprites/spr_coins/spr_coins.yy",},
     {"name":"spr_floor","order":1,"path":"sprites/spr_floor/spr_floor.yy",},
     {"name":"spr_goal","order":3,"path":"sprites/spr_goal/spr_goal.yy",},
@@ -29,5 +31,6 @@
     {"name":"spr_player_idle","order":5,"path":"sprites/spr_player_idle/spr_player_idle.yy",},
     {"name":"spr_player_jump","order":7,"path":"sprites/spr_player_jump/spr_player_jump.yy",},
     {"name":"spr_player_walk","order":6,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
+    {"name":"spr_spike","order":8,"path":"sprites/spr_spike/spr_spike.yy",},
   ],
 }
