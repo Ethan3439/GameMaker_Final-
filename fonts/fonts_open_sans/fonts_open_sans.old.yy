@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"obj_playbutton2",
+  "%Name":"fonts_open_sans",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":14,
@@ -189,7 +189,7 @@
   "last":0,
   "lineHeight":18,
   "maintainGms1Font":false,
-  "name":"obj_playbutton2",
+  "name":"fonts_open_sans",
   "parent":{
     "name":"Fonts",
     "path":"folders/Fonts.yy",

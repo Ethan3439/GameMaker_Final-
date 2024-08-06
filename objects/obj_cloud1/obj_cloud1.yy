@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_playbutton",
+  "%Name":"obj_cloud1",
   "eventList":[],
   "managed":true,
-  "name":"obj_playbutton",
+  "name":"obj_cloud1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"obj_button_parent",
-    "path":"objects/obj_button_parent/obj_button_parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_playbutton",
-    "path":"sprites/spr_playbutton/spr_playbutton.yy",
+    "name":"spr_cloud1",
+    "path":"sprites/spr_cloud1/spr_cloud1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -34,7 +34,10 @@
   },
   "name":"GameMaker_Final",
   "resources":[
-    {"id":{"name":"obj_playbutton2","path":"fonts/obj_playbutton2/obj_playbutton2.yy",},},
+    {"id":{"name":"fonts_open_sans","path":"fonts/fonts_open_sans/fonts_open_sans.yy",},},
+    {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
+    {"id":{"name":"obj_cloud1","path":"objects/obj_cloud1/obj_cloud1.yy",},},
+    {"id":{"name":"obj_cloud2","path":"objects/obj_cloud2/obj_cloud2.yy",},},
     {"id":{"name":"obj_coin","path":"objects/obj_coin/obj_coin.yy",},},
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},},
@@ -44,6 +47,9 @@
     {"id":{"name":"obj_spike","path":"objects/obj_spike/obj_spike.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"room2","path":"rooms/room2/room2.yy",},},
+    {"id":{"name":"room3","path":"rooms/room3/room3.yy",},},
+    {"id":{"name":"spr_cloud1","path":"sprites/spr_cloud1/spr_cloud1.yy",},},
+    {"id":{"name":"spr_cloud2","path":"sprites/spr_cloud2/spr_cloud2.yy",},},
     {"id":{"name":"spr_coins","path":"sprites/spr_coins/spr_coins.yy",},},
     {"id":{"name":"spr_enemy","path":"sprites/spr_enemy/spr_enemy.yy",},},
     {"id":{"name":"spr_floor","path":"sprites/spr_floor/spr_floor.yy",},},
@@ -59,6 +65,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"room2","path":"rooms/room2/room2.yy",},},
+    {"roomId":{"name":"room3","path":"rooms/room3/room3.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
