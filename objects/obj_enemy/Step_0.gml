@@ -5,9 +5,9 @@
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "2"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "object" "obj_floor2"
-/// @DnDSaveInfo : "object" "obj_floor2"
-var l73A2FC1A_0 = instance_place(x + 0, y + 2, [obj_floor2]);
+/// @DnDArgument : "object" "obj_floor"
+/// @DnDSaveInfo : "object" "obj_floor"
+var l73A2FC1A_0 = instance_place(x + 0, y + 2, [obj_floor]);
 if ((l73A2FC1A_0 > 0))
 {
 	/// @DnDAction : YoYo Games.Common.Variable
@@ -25,9 +25,9 @@ if ((l73A2FC1A_0 > 0))
 	/// @DnDParent : 73A2FC1A
 	/// @DnDArgument : "x" "x + (25 * sign(move_x))"
 	/// @DnDArgument : "y_relative" "1"
-	/// @DnDArgument : "object" "obj_floor2"
-	/// @DnDSaveInfo : "object" "obj_floor2"
-	var l339356AA_0 = instance_place(x + (25 * sign(move_x)), y + 0, [obj_floor2]);
+	/// @DnDArgument : "object" "obj_floor"
+	/// @DnDSaveInfo : "object" "obj_floor"
+	var l339356AA_0 = instance_place(x + (25 * sign(move_x)), y + 0, [obj_floor]);
 	if ((l339356AA_0 > 0))
 	{
 		/// @DnDAction : YoYo Games.Common.Variable
@@ -48,10 +48,10 @@ if ((l73A2FC1A_0 > 0))
 	/// @DnDArgument : "x" "x + (30 * sign(move_x))"
 	/// @DnDArgument : "y" "y + 50 "
 	/// @DnDArgument : "y_relative" "1"
-	/// @DnDArgument : "object" "obj_floor2"
+	/// @DnDArgument : "object" "obj_floor"
 	/// @DnDArgument : "not" "1"
-	/// @DnDSaveInfo : "object" "obj_floor2"
-	var l3EEBD321_0 = instance_place(x + (30 * sign(move_x)), y + y + 50 , [obj_floor2]);
+	/// @DnDSaveInfo : "object" "obj_floor"
+	var l3EEBD321_0 = instance_place(x + (30 * sign(move_x)), y + y + 50 , [obj_floor]);
 	if (!(l3EEBD321_0 > 0))
 	{
 		/// @DnDAction : YoYo Games.Common.Variable
@@ -110,6 +110,6 @@ else
 /// @DnDArgument : "yvel" "move_y"
 /// @DnDArgument : "maxxmove" "walk_speed"
 /// @DnDArgument : "maxymove" "jump_speed"
-/// @DnDArgument : "object" "obj_floor2"
-/// @DnDSaveInfo : "object" "obj_floor2"
-move_and_collide(move_x, move_y, obj_floor2,4,0,0,walk_speed,jump_speed);
+/// @DnDArgument : "object" "obj_floor"
+/// @DnDSaveInfo : "object" "obj_floor"
+move_and_collide(move_x, move_y, obj_floor,4,0,0,walk_speed,jump_speed);

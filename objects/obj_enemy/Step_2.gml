@@ -6,9 +6,10 @@
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 0BB0B63A
+/// @DnDDisabled : 1
 /// @DnDParent : 0F8AD56E
-sprite_index = noone;
-image_index = 0;
+/// @DnDArgument : "spriteind" "spr_player_jump"
+/// @DnDSaveInfo : "spriteind" "spr_player_jump"
 
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
 /// @DnDVersion : 1.1
@@ -17,10 +18,10 @@ image_index = 0;
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "2"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "object" "obj_floor2"
+/// @DnDArgument : "object" "obj_floor"
 /// @DnDArgument : "not" "1"
-/// @DnDSaveInfo : "object" "obj_floor2"
-var l183857A7_0 = instance_place(x + 0, y + 2, [obj_floor2]);
+/// @DnDSaveInfo : "object" "obj_floor"
+var l183857A7_0 = instance_place(x + 0, y + 2, [obj_floor]);
 if (!(l183857A7_0 > 0))
 {
 	/// @DnDAction : YoYo Games.Instances.Set_Sprite
@@ -66,7 +67,7 @@ else
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 48563DA4
-	/// @DnDComment : if moving right 
+	/// @DnDComment : if moving right
 	/// @DnDParent : 7A32266E
 	/// @DnDArgument : "var" "move_x"
 	/// @DnDArgument : "op" "4"
