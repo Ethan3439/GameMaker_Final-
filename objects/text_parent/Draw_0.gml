@@ -30,6 +30,6 @@ draw_text(x + 0, y + 0,  + string(btn_text));
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1
 /// @DnDHash : 734B6DB7
-/// @DnDComment : reset aligment after new draw to prevent$(13_10)tissues later if a new draw occurs.
+/// @DnDComment : reset aligment after new draw to prevent$(13_10)tissues later if a new draw occurs. 
 draw_set_halign(fa_left);
 draw_set_valign(fa_top);
