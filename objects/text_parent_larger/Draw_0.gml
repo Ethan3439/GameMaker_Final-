@@ -6,9 +6,9 @@ draw_self();
 /// @DnDAction : YoYo Games.Drawing.Set_Font
 /// @DnDVersion : 1
 /// @DnDHash : 1BCD3680
-/// @DnDArgument : "font" "fonts_open_sans"
-/// @DnDSaveInfo : "font" "fonts_open_sans"
-draw_set_font(fonts_open_sans);
+/// @DnDArgument : "font" "fonts_open_sans_larger"
+/// @DnDSaveInfo : "font" "fonts_open_sans_larger"
+draw_set_font(fonts_open_sans_larger);
 
 /// @DnDAction : YoYo Games.Drawing.Set_Alignment
 /// @DnDVersion : 1.1

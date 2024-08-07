@@ -1,19 +1,19 @@
 {
   "$GMObject":"",
-  "%Name":"text_child",
+  "%Name":"text_child_larger_title_authors",
   "eventList":[],
   "managed":true,
-  "name":"text_child",
+  "name":"text_child_larger_title_authors",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"text_parent","path":"objects/text_parent/text_parent.yy",},"propertyId":{"name":"text_data","path":"objects/text_parent/text_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"spaceman_adventure",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"text_parent_larger","path":"objects/text_parent_larger/text_parent_larger.yy",},"propertyId":{"name":"text_data","path":"objects/text_parent_larger/text_parent_larger.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"Spaceman Adventure\\nby Ethan and Xavier ",},
   ],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
   "parentObjectId":{
-    "name":"text_parent",
-    "path":"objects/text_parent/text_parent.yy",
+    "name":"text_parent_larger",
+    "path":"objects/text_parent_larger/text_parent_larger.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
