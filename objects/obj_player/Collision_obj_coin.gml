@@ -12,15 +12,15 @@ effect_create_below(8, x + 0, y + 0, 2, $FFC46B4A & $ffffff);
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 32BCA66D
-instance_destroy();
+/// @DnDApplyTo : other
+with(other) instance_destroy();
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 791D1FA0
 /// @DnDArgument : "expr" "1"
-/// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "coins"
-coins += 1;
+coins = 1;
 
 /// @DnDAction : YoYo Games.Miscellaneous.Debug_Show_Message
 /// @DnDVersion : 1
