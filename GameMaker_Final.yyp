@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"fonts_open_sans_larger","path":"fonts/fonts_open_sans_larger/fonts_open_sans_larger.yy",},},
     {"id":{"name":"fonts_open_sans","path":"fonts/fonts_open_sans/fonts_open_sans.yy",},},
+    {"id":{"name":"ob_portal","path":"objects/ob_portal/ob_portal.yy",},},
     {"id":{"name":"obj_button_parent","path":"objects/obj_button_parent/obj_button_parent.yy",},},
     {"id":{"name":"obj_cloud1","path":"objects/obj_cloud1/obj_cloud1.yy",},},
     {"id":{"name":"obj_cloud2","path":"objects/obj_cloud2/obj_cloud2.yy",},},
@@ -74,6 +75,7 @@
     {"id":{"name":"spr_player_jump","path":"sprites/spr_player_jump/spr_player_jump.yy",},},
     {"id":{"name":"spr_player_walk","path":"sprites/spr_player_walk/spr_player_walk.yy",},},
     {"id":{"name":"spr_spike","path":"sprites/spr_spike/spr_spike.yy",},},
+    {"id":{"name":"Sprite15","path":"sprites/Sprite15/Sprite15.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

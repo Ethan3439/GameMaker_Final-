@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"fonts_open_sans_larger","order":1,"path":"fonts/fonts_open_sans_larger/fonts_open_sans_larger.yy",},
+    {"name":"ob_portal","order":20,"path":"objects/ob_portal/ob_portal.yy",},
     {"name":"obj_button_parent","order":9,"path":"objects/obj_button_parent/obj_button_parent.yy",},
     {"name":"obj_cloud1","order":10,"path":"objects/obj_cloud1/obj_cloud1.yy",},
     {"name":"obj_cloud2","order":11,"path":"objects/obj_cloud2/obj_cloud2.yy",},
@@ -53,5 +54,6 @@
     {"name":"spr_player_jump","order":7,"path":"sprites/spr_player_jump/spr_player_jump.yy",},
     {"name":"spr_player_walk","order":6,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
     {"name":"spr_spike","order":8,"path":"sprites/spr_spike/spr_spike.yy",},
+    {"name":"Sprite15","order":14,"path":"sprites/Sprite15/Sprite15.yy",},
   ],
 }
